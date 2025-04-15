@@ -293,12 +293,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-38" value="15.工区预测数据资源匹配" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-37">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-38" value="15.批量识别" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-37">
           <mxGeometry x="-0.7643" y="3" relative="1" as="geometry">
             <mxPoint x="81" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-39" value="14.启动预测识别障碍物任务成功" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-39" value="14.启动预测识别障碍物任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="849.9967063712133" y="1168.9952932588867" as="geometry">
             <mxPoint x="-35" y="-5" as="offset" />
           </mxGeometry>
