@@ -330,7 +330,7 @@
             <mxPoint x="1215.15" y="1432.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-46" value="14.启动预测识别障碍物任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-46" value="17.下载结果.shp文件" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="879.9967063712133" y="1419.9952932588867" as="geometry">
             <mxPoint x="-35" y="-5" as="offset" />
           </mxGeometry>
