@@ -299,8 +299,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ht9RmpA1HYzeTGTEa3V4-39" value="11.根据选择预测工区模型选择模型创建预测任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="819.9967063712133" y="1019.9952932588866" as="geometry">
+          <mxGeometry x="849.9967063712133" y="1139.9952932588867" as="geometry">
             <mxPoint x="-35" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;entryX=-0.023;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.8499999999999" y="1030.8000000000002" as="sourcePoint" />
+            <mxPoint x="1225" y="1033" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
