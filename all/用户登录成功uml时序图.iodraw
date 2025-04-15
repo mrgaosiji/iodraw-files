@@ -86,7 +86,7 @@
             <mxPoint x="285" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.访问登录界面" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.访问登" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
           <mxGeometry x="-0.2012" y="-1" relative="1" as="geometry">
             <mxPoint x="17" as="offset" />
           </mxGeometry>
@@ -148,7 +148,7 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-960" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1050" y="1185" width="50" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-961" value="本机操作" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFF2CC;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-961" value="登录Action" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFF2CC;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="245" y="197.5" width="160" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-962" value="登录界面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFF2CC;fontSize=20;fontStyle=1" parent="1" vertex="1">
