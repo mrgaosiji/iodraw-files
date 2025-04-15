@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-953" value="7.待训练训练种子准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-952" vertex="1" connectable="0">
           <mxGeometry x="0.1056" y="-1" relative="1" as="geometry">
-            <mxPoint x="-19" as="offset" />
+            <mxPoint x="-19" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-954" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;" parent="1" vertex="1">
