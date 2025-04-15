@@ -37,14 +37,6 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-935" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fontSize=20;strokeWidth=3;fillColor=#0F0F0F;" parent="1" vertex="1">
           <mxGeometry x="45" y="125" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-936" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.067;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeWidth=2;fontSize=20;" parent="1" source="_HG-l6Gan8gQg0eftMSn-938" target="_HG-l6Gan8gQg0eftMSn-951" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-937" value="2.上传图片规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-936" vertex="1" connectable="0">
-          <mxGeometry x="-0.4294" y="1" relative="1" as="geometry">
-            <mxPoint x="37" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-938" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="285" width="50" height="200" as="geometry" />
         </mxCell>
@@ -261,6 +253,14 @@
               <mxPoint x="410" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-3">
+          <mxGeometry x="0.6689" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-5" value="3.输入账号密码" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="698.7141541875617" y="425.1471203234039" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
