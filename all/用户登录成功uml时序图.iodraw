@@ -291,7 +291,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ht9RmpA1HYzeTGTEa3V4-24" value="3.调度切割数据准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="430" as="geometry" />
+          <mxGeometry x="860" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="455" as="sourcePoint" />
+            <mxPoint x="761.9999999999998" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="822" y="475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
