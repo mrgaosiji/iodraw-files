@@ -40,7 +40,7 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-936" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.067;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeWidth=2;fontSize=20;" parent="1" source="_HG-l6Gan8gQg0eftMSn-938" target="_HG-l6Gan8gQg0eftMSn-951" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-937" value="2.转至登录界面" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-936" vertex="1" connectable="0">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-937" value="2.上传图片规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-936" vertex="1" connectable="0">
           <mxGeometry x="-0.4294" y="1" relative="1" as="geometry">
             <mxPoint x="37" y="-17" as="offset" />
           </mxGeometry>
@@ -86,7 +86,7 @@
             <mxPoint x="285" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.预测原始图片准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=19;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.预测原始图片准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
           <mxGeometry x="-0.2012" y="-1" relative="1" as="geometry">
             <mxPoint x="17" as="offset" />
           </mxGeometry>
@@ -251,6 +251,16 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-976" value="7.查询user表" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-975" vertex="1" connectable="0">
           <mxGeometry x="-0.7435" y="-2" relative="1" as="geometry">
             <mxPoint x="39" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="350" />
+              <mxPoint x="390" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
