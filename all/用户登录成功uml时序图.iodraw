@@ -298,6 +298,11 @@
             <mxPoint x="81" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-39" value="11.根据选择预测工区模型选择模型创建预测任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="819.9967063712133" y="1019.9952932588866" as="geometry">
+            <mxPoint x="-35" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
