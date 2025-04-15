@@ -297,8 +297,8 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-959" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1216" y="1000" width="50" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-36" value="9.运行情况日志,指标数据返回" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="655.2867063712133" y="878.1252932588866" as="geometry" />
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-36" value="11.新建预测任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="799.9967063712133" y="999.9952932588866" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
