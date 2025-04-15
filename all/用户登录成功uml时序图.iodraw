@@ -295,6 +295,36 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-938" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="285" width="50" height="305" as="geometry" />
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1.037;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.963;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="998.0000000000001" y="520.3500000000001" />
+              <mxPoint x="998.0000000000001" y="547.3500000000001" />
+            </Array>
+            <mxPoint x="860" y="520" as="sourcePoint" />
+            <mxPoint x="858.0000000000001" y="547.3500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-14" value="3.调度切割数据准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-13">
+          <mxGeometry x="-0.6334" y="3" relative="1" as="geometry">
+            <mxPoint x="41" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1.037;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.963;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="998.0000000000001" y="520.3500000000001" />
+              <mxPoint x="998.0000000000001" y="547.3500000000001" />
+            </Array>
+            <mxPoint x="860" y="520" as="sourcePoint" />
+            <mxPoint x="858.0000000000001" y="547.3500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-16" value="3.调度切割数据准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-15">
+          <mxGeometry x="-0.6334" y="3" relative="1" as="geometry">
+            <mxPoint x="41" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
