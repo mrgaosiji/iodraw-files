@@ -270,7 +270,7 @@
             <mxPoint x="552.5" y="430.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-7" value="3.根据id查找对应角色" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-6">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-7" value="3.上传待预测的图片" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-6">
           <mxGeometry x="-0.0944" relative="1" as="geometry">
             <mxPoint x="9" y="-17" as="offset" />
           </mxGeometry>
