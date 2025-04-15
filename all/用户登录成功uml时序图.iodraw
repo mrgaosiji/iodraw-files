@@ -154,7 +154,7 @@
               <mxPoint x="762" y="476" />
             </Array>
             <mxPoint x="822" y="465.79249999999985" as="sourcePoint" />
-            <mxPoint x="830" y="490" as="targetPoint" />
+            <mxPoint x="770" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-966" value="3.输入账号密码" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-965" vertex="1" connectable="0">
