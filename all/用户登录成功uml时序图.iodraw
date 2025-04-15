@@ -43,11 +43,6 @@
             <mxPoint x="775" y="1048" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-942" value="10.根据id查找对应角色" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-941" vertex="1" connectable="0">
-          <mxGeometry x="-0.0944" relative="1" as="geometry">
-            <mxPoint x="24" y="-17" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-943" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1;exitY=0.828;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_HG-l6Gan8gQg0eftMSn-945" target="_HG-l6Gan8gQg0eftMSn-960" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
