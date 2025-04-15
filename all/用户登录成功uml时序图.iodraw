@@ -146,11 +146,11 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-964" value="云平台AI预测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFF2CC;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1157" y="190" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-965" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1.037;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-965" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1.037;exitY=0.316;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.963;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="_HG-l6Gan8gQg0eftMSn-951" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="983" y="445" />
-              <mxPoint x="983" y="476" />
+              <mxPoint x="900" y="445" />
+              <mxPoint x="900" y="476" />
               <mxPoint x="760" y="476" />
             </Array>
             <mxPoint x="761.9999999999999" y="444.64999999999986" as="sourcePoint" />
