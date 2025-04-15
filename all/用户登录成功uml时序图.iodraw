@@ -157,7 +157,7 @@
             <mxPoint x="770" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-966" value="3.输入账号密码" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-965" vertex="1" connectable="0">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-966" value="3.自动调度切割预测" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-965" vertex="1" connectable="0">
           <mxGeometry x="-0.6334" y="3" relative="1" as="geometry">
             <mxPoint x="20" y="-18" as="offset" />
           </mxGeometry>
