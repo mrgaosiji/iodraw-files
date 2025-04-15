@@ -309,7 +309,7 @@
             <mxPoint x="962" y="870.29" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-32" value="12.返回角色列表" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-31">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-32" value="9.运行情况日志,指标数据返回" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-31">
           <mxGeometry x="0.1358" y="-2" relative="1" as="geometry">
             <mxPoint x="29" as="offset" />
           </mxGeometry>
