@@ -43,14 +43,6 @@
             <mxPoint x="775" y="1048" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-943" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitX=1;exitY=0.828;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_HG-l6Gan8gQg0eftMSn-945" target="_HG-l6Gan8gQg0eftMSn-960" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-944" value="15.跳转到系统首页" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-943" vertex="1" connectable="0">
-          <mxGeometry x="-0.0648" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-16" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-946" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.997;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="299.9999999999999" y="334.2850000000001" as="targetPoint" />
