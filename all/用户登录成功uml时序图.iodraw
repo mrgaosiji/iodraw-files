@@ -323,6 +323,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-34" value="7.待训练训练种子准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1120.0000151388886" y="790.0013333332188" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
