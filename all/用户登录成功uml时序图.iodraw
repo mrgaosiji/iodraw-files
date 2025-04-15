@@ -292,6 +292,17 @@
             <mxPoint x="4" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="660" as="sourcePoint" />
+            <mxPoint x="720" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-30" value="6.上传待标注或者已标注训练种子" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-29">
+          <mxGeometry x="-0.0944" relative="1" as="geometry">
+            <mxPoint x="25" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
