@@ -151,13 +151,12 @@
             <Array as="points">
               <mxPoint x="985" y="445" />
               <mxPoint x="985" y="476" />
-              <mxPoint x="817" y="476" />
-              <mxPoint x="817" y="480" />
+              <mxPoint x="910" y="476" />
+              <mxPoint x="910" y="480" />
               <mxPoint x="764" y="480" />
-              <mxPoint x="764" y="510" />
             </Array>
             <mxPoint x="822" y="465.79249999999985" as="sourcePoint" />
-            <mxPoint x="764" y="484" as="targetPoint" />
+            <mxPoint x="770" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-966" value="3.输入账号密码" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-965" vertex="1" connectable="0">
