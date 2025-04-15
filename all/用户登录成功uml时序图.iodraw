@@ -151,7 +151,8 @@
             <Array as="points">
               <mxPoint x="900" y="445" />
               <mxPoint x="900" y="476" />
-              <mxPoint x="760" y="476" />
+              <mxPoint x="810" y="476" />
+              <mxPoint x="810" y="472" />
             </Array>
             <mxPoint x="761.9999999999999" y="444.64999999999986" as="sourcePoint" />
             <mxPoint x="810" y="480" as="targetPoint" />
@@ -159,7 +160,7 @@
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-966" value="3.自动调度切割预测" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-965" vertex="1" connectable="0">
           <mxGeometry x="-0.6334" y="3" relative="1" as="geometry">
-            <mxPoint x="20" y="-18" as="offset" />
+            <mxPoint x="41" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-967" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.021;exitY=0.117;exitDx=0;exitDy=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitPerimeter=0;" parent="1" edge="1">
