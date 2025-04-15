@@ -243,7 +243,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-5" value="2.原始图片命名规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-5" value="2.原始图片命名规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490.00415418756165" y="359.9971203234039" as="geometry">
             <mxPoint x="4" y="-32" as="offset" />
           </mxGeometry>
@@ -316,8 +316,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-22" value="5.数据标注" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="450" y="630" as="geometry">
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-22" value="5.数据标注" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="630" as="geometry">
             <mxPoint x="4" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
