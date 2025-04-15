@@ -305,11 +305,6 @@
             <mxPoint x="762.0000000000001" y="557.3500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ht9RmpA1HYzeTGTEa3V4-16" value="4.数据标注" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="ht9RmpA1HYzeTGTEa3V4-15">
-          <mxGeometry x="-0.6334" y="3" relative="1" as="geometry">
-            <mxPoint x="41" y="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
