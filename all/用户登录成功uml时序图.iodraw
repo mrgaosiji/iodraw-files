@@ -314,6 +314,11 @@
         <mxCell id="ht9RmpA1HYzeTGTEa3V4-27" value="3.调度切割数据准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-28" value="2.原始图片命名规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="846" y="362" as="geometry">
+            <mxPoint x="4" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
