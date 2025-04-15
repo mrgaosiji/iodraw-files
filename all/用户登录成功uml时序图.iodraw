@@ -86,7 +86,7 @@
             <mxPoint x="285" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.预测原始图片准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
+        <mxCell id="_HG-l6Gan8gQg0eftMSn-947" value="1.预测原始图片准备" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=19;" parent="_HG-l6Gan8gQg0eftMSn-946" vertex="1" connectable="0">
           <mxGeometry x="-0.2012" y="-1" relative="1" as="geometry">
             <mxPoint x="17" as="offset" />
           </mxGeometry>
