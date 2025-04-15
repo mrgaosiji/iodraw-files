@@ -103,21 +103,6 @@
         <mxCell id="_HG-l6Gan8gQg0eftMSn-964" value="云平台AI预测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFF2CC;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1157" y="190" width="160" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-971" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.021;exitY=0.117;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="1190" as="sourcePoint" />
-            <mxPoint x="351" y="1225" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="515" y="1190" />
-              <mxPoint x="515" y="1224" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_HG-l6Gan8gQg0eftMSn-972" value="13.将用户存入&lt;br&gt;session" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" parent="_HG-l6Gan8gQg0eftMSn-971" vertex="1" connectable="0">
-          <mxGeometry x="-0.7643" y="3" relative="1" as="geometry">
-            <mxPoint x="39.5" y="-25" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_HG-l6Gan8gQg0eftMSn-973" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.021;exitY=0.117;exitDx=0;exitDy=0;entryX=1.011;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="1300" as="sourcePoint" />
