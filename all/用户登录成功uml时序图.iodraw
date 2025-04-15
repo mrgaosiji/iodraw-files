@@ -324,6 +324,17 @@
             <mxPoint x="101" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=20;entryX=-0.023;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.9999999999999" y="1430.0000000000002" as="sourcePoint" />
+            <mxPoint x="1215.15" y="1432.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-46" value="14.启动预测识别障碍物任务" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="859.9967063712133" y="1178.9952932588867" as="geometry">
+            <mxPoint x="-35" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
