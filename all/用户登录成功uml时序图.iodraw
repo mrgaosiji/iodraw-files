@@ -316,6 +316,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ht9RmpA1HYzeTGTEa3V4-22" value="2.原始图片命名规范" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="630" as="geometry">
+            <mxPoint x="4" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
